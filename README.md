@@ -32,4 +32,4 @@ Some bugs that I am aware of are the following:
 This project is licensed under the MIT License.
 
 ## Contributions
-- Contributions are accepted and greatly appreciated by me. Feel free to copy this repo and have a look around all the source code and play around with it. You may also fork this repo if you would like.
+Contributions are accepted and greatly appreciated by me. Feel free to copy this repo and have a look around all the source code and play around with it. You may also fork this repo if you would like.
