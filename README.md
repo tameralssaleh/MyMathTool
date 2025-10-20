@@ -1,6 +1,6 @@
 # MyMathTool
 
-An expanded, simple, easy-to-use calculator app that supports basic calculator functionalities along with graphing, programming and logic tools, conversions, etc.
+MyMathTool: A full feature-packed program that takes a basic calculator and makes it much more useful. With MyMathTool, you can plot graphs, do unit conversions, calculate financial data, run logic formulas through our logic gate evaluator, etc...
 
 ---
 
